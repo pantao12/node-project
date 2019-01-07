@@ -1,1 +1,1 @@
-qqqqqq  helloworld 
+node qqqqqq  helloworld 
